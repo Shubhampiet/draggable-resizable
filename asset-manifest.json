@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/draggable-resizable/static/css/main.f595dc0b.css",
+    "main.js": "/draggable-resizable/static/js/main.71b8254d.js",
+    "static/js/787.0420ccf9.chunk.js": "/draggable-resizable/static/js/787.0420ccf9.chunk.js",
+    "index.html": "/draggable-resizable/index.html",
+    "main.f595dc0b.css.map": "/draggable-resizable/static/css/main.f595dc0b.css.map",
+    "main.71b8254d.js.map": "/draggable-resizable/static/js/main.71b8254d.js.map",
+    "787.0420ccf9.chunk.js.map": "/draggable-resizable/static/js/787.0420ccf9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f595dc0b.css",
+    "static/js/main.71b8254d.js"
+  ]
+}
